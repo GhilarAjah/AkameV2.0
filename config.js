@@ -24,33 +24,33 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'Herachan'
+global.namaowner = 'Ghilar'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082']
-global.ownernomer = "6289636827082"
-global.premium = ['6289636827082','6282171978174']
+global.owner = ['628995888005']
+global.ownernomer = "628995888005"
+global.premium = ['628995888005','628995888005']
 
 //—————「 Setting Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.email = 'rajifarmansyah46@gmail.com'
-global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.email = 'tbghilarpancamustika@gmail.com'
+global.namaweb = 'Youtube'
+global.myweb = 'https://www.youtube.com/@GhilarYETE'
 global.region = 'Jepang'
-global.github = 'https://github.com/Abuzzpoet'
-global.mygc = 'https://chat.whatsapp.com/FGmVjFYJBjjGst62qwNKJB'
-global.mytt = 'https://tiktok.com/@guaabuzz'
+global.github = 'https://github.com/Ghilar'
+global.mygc = 'https://chat.whatsapp.com/H9Ech2alXvQ0Zc9xp7w9Ce'
+global.mytt = 'https://www.youtube.com/@GhilarYETE'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'GuaAbuzz'
-global.author = 'WhatsApp Bot'
+global.packname = 'ambil'
+global.author = 'aja'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
